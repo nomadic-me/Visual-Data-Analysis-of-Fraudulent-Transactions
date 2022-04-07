@@ -19,12 +19,16 @@ Challenge / Project from Fintech Bootcamp for SQL Week
 |  ![Fig 1](Images/Data_Analysis_Question_1.1.png) |  ![Fig 2](Images/Data_Analysis_Question_1.2.png) | ![Fig 3](Images/Data_Analysis_Question_1.3.png)  |
 
 
+### Data Analysis Question 2
+ ![Fig 1](Images/Data_Analysis_Question_2.png)
+
 ## Jupyter Notebooks
 [visual_data_analysis.ipynb](visual_data_analysis.ipynb)
 
 ## SQL Statements
 * [SQL Statements: Datamodelling.sql](QuickDBD-exports/QuickDBD-export.sql)
 * [SQL Statements: Data_Analysis_Question_1.sql](SQL/Data_Analysis_Question_1.sql)
+* [SQL Statements: Data_Analysis_Question_2.sql](SQL/Data_Analysis_Question_2.sql)
 
 ## Instructions
 [Instructions.md](Instructions.md)

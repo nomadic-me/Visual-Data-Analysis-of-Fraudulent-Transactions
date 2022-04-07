@@ -1,4 +1,4 @@
-INSERT INTO merchant VALUES
+INSERT INTO merchants VALUES
     (1, 'Murphy, Heath and Fields', 1),
     (2, 'Riggs-Adams', 1),
     (3, 'Sanders, Parks and Mcfarland', 2),

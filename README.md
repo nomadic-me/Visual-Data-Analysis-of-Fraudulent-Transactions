@@ -4,9 +4,12 @@ Challenge / Project from Fintech Bootcamp for SQL Week
 
 ## Data Modeling: QuickDatabaseDiagrams
 
+* [SQL Statements: Data Modelling.sql](QuickDBD-exports/QuickDBD-export.sql)
+* [PDF: Data Modelling](QuickDBD-exports/QuickDBD-export.pdf)
+![QuickDatabaseDiagrams](QuickDBD-exports/QuickDBD-export.png)
 
 
-## Images
+## Output Analysis Images
 
 ### Data Analysis Question 1
 
@@ -20,7 +23,8 @@ Challenge / Project from Fintech Bootcamp for SQL Week
 [visual_data_analysis.ipynb](visual_data_analysis.ipynb)
 
 ## SQL Statements
-[SQL Statements: Data_Analysis_Question_1.sql](SQL/Data_Analysis_Question_1.sql)
+* [SQL Statements: Datamodelling.sql](QuickDBD-exports/QuickDBD-export.sql)
+* [SQL Statements: Data_Analysis_Question_1.sql](SQL/Data_Analysis_Question_1.sql)
 
 ## Instructions
 [Instructions.md](Instructions.md)
